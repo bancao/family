@@ -1,0 +1,56 @@
+{
+"name":"老祖",
+"wife":"",
+"cemetery":"葬南京",
+"children":
+[
+	{ 
+	  "sequence":2,
+	  "name":"颜绪" , 
+	  "wife":["袁袁", "袁袁"],
+	  "cemetery":"住许亭村",
+  	  "children":
+  	  [
+	  	  	{ 
+			  "sequence":2,
+			  "name":"颜2" , 
+			  "wife":["苏"],
+			  "cemetery":"住北马村",
+		  	  "children":
+		  	  [
+		  	  ] 
+		  	},
+		  	{ 
+			  "sequence":1,
+			  "name":"颜" , 
+			  "wife":["苏"],
+			  "cemetery":"住十八亩地",
+		  	  "children":
+		  	  [
+		  	  	{ 
+		  	  	  "sequence":1,
+				  "name":"颜化" , 
+				  "wife":["苏"],
+				  "cemetery":"住十八亩地",
+				  "adopted":1,
+			  	  "children":
+			  	  [
+			  	  ] 
+			  	}
+		  	  ] 
+		  	}
+  	  ] 
+  	},
+
+  	{ 
+	  "sequence":1,
+	  "name":"颜成" , 
+	  "wife":["苏"],
+	  "cemetery":"住北马村",
+	  "adopted" : 2,
+  	  "children":
+  	  [
+  	  ] 
+  	}
+]
+}
